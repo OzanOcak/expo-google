@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "GoExpo",
+    "plugins": ["@react-native-google-signin/google-signin"],
     "slug": "GoExpo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,13 +19,20 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.oocak.GoExpo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c66d3b6-2512-41d3-bc7c-9f9f347b48fd"
+      }
     }
   }
 }

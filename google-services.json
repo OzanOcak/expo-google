@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281970758438",
+    "project_id": "expogo-e7416",
+    "storage_bucket": "expogo-e7416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281970758438:android:a6a3b0a5224091b4bde7e7",
+        "android_client_info": {
+          "package_name": "com.oocak.GoExpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281970758438-j08tbri6tkgt71dfnph4vrdsd2p9rmr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oocak.GoExpo",
+            "certificate_hash": "7bd64ca2d96d81d4456dfffdf47bfcc042ed2c03"
+          }
+        },
+        {
+          "client_id": "281970758438-u7rueceinqgnlhl0tnjecql0mfeg9egh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oocak.GoExpo",
+            "certificate_hash": "b4a4d26fe4fc34e437ea0f6922f1b2ba43a6c5bf"
+          }
+        },
+        {
+          "client_id": "281970758438-fftr6t7ug3fk0o2aqioq9k4ah0623qp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZq2qE810jyFBbT1cnwY5x-mr1IOm6uB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281970758438-akgcsvjiv4j6uqd0v7m39dt1lfvhapdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
